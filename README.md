@@ -14,4 +14,6 @@ Mi proyecto tiene como objetivo la creación de un modelo capaz de distinguir en
 ImageDataGenerator fue una de las piezas fundamentales en este proyecto, ya que ayudó con el reescalado, la creación de lotes de entrenamiento y validación, la reestructuración de las imágenes y la gestión de las clasificaciones.
 También resultó beneficioso para el manejo de la memoria RAM y la velocidad del modelo. Al dividir las imágenes en lotes, se gestiona mejor la memoria y se mejora la velocidad del modelo.
 
-### Este es uno de mis primeros proyectos de vision computer, trataré de mejorar y realizar mas proyectos para poder mejorar mis habilidades.
+## Conclusión
+Este es uno de mis primeros proyectos de visión por computadora. Continuaré mejorando y realizando más proyectos para perfeccionar mis habilidades en este campo.
+
